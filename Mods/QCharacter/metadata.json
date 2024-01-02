@@ -1,0 +1,25 @@
+{
+  "Id": {
+    "Id": 3101430466
+  },
+  "Desc": {
+    "nameArr": [
+      {
+        "LanguageType": 0,
+        "Value": "Q版角色模组"
+      }
+    ],
+    "descArr": [
+      {
+        "LanguageType": 0,
+        "Value": "使你的角色变得更加Q版"
+      }
+    ]
+  },
+  "Author": "Lanka",
+  "Version": "0.0.1",
+  "Website": "",
+  "Icon": "C:\\Users\\lanka\\AppData\\LocalLow\\Pathea Games\\LetsSchool\\LocalMods\\QCharacter\\Icon.png",
+  "Tags": [],
+  "Dependencies": []
+}

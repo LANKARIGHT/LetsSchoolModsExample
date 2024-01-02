@@ -1,0 +1,15 @@
+{
+  "metaData": {
+    "assetName": "测试墙面",
+    "assetType": "wall",
+    "assetIcon": "测试墙面_B"
+  },
+  "data": {
+    "ID": 0,
+    "textureOffset": 0,
+    "overrideHeight": 0.0
+  },
+  "baseTexture": "测试墙面_B",
+  "smoothTexture": "测试墙面_S",
+  "CanbuildOnWallBuilder": true
+}

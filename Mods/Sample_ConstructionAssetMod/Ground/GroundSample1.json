@@ -1,0 +1,43 @@
+{
+  "metaData": {
+    "assetName": "GroundSample1",
+    "assetType": "ground",
+    "assetIcon": "GroundSample1_B"
+  },
+  "baseTexture": "GroundSample1_B",
+  "smoothTexture": "GroundSample1_S",
+  "CanbuildOnGroundBuilder": true,
+  "Rule": "Default",
+  "data": {
+    "GroundNameI18n": {
+      "Key": "testGroundNameKey",
+      "Value": "GroundSample1"
+    },
+    "GroundCommentsI18n": {
+      "Key": "",
+      "Value": ""
+    },
+    "Blend": 3.0,
+    "useSeason": false,
+    "sprite": [
+      {
+        "x": 0,
+        "y": 1
+      }
+    ],
+    "Season1": [],
+    "Season2": [],
+    "Season3": [],
+    "Season4": [],
+    "CanWalk": true,
+    "BuyPrice": 10,
+    "CleanlinessRate": 0.0,
+    "MovementFactor": 0.0,
+    "RootTable": {
+      "instanceID": 36630
+    },
+    "tempPreview": {
+      "instanceID": -6430608
+    }
+  }
+}

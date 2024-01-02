@@ -1,0 +1,131 @@
+{
+  "metaData": {
+    "assetName": "TestFurniture",
+    "assetType": "furniture",
+    "assetIcon": "Icon"
+  },
+  "assetPath": "",
+  "moduleFileName": "TestFurniture",
+  "moduleName": "TestFurniture",
+  "Level": 0,
+  "FurnitureNameI18n": {
+    "Key": "TestFurnitureI18nKey",
+    "Value": "TestFurniture"
+  },
+  "CommentsI18n": {
+    "Key": "TestFurnitureCommentsI18nKey",
+    "Value": "this is a furniture mod example."
+  },
+  "FurnitureType": {
+    "FurnitureTypeID": 0
+  },
+  "enableSnap": true,
+  "BuildCondition": {
+    "StateBoundData": {
+      "rid": 1000
+    }
+  },
+  "PadOccupy": [
+    {
+      "Position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "PadMask": 2,
+      "WindowWallMaskID_N": {
+        "Enable": false,
+        "Value": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "WindowWallMaskID_E": {
+        "Enable": false,
+        "Value": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "WindowWallMaskID_S": {
+        "Enable": false,
+        "Value": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "WindowWallMaskID_W": {
+        "Enable": false,
+        "Value": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "PadHole": false,
+      "PadGroundID": 0
+    }
+  ],
+  "baseTexture": "",
+  "smoothTexture": "",
+  "unlockOnStart": true,
+  "AugmentBright": 0.0,
+  "augmenttTmperature": 0.0,
+  "isAutoTemperature": false,
+  "BuyPrice": 10.0,
+  "MaxHp": 100.0,
+  "TradeValue": 100.0,
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 1000,
+        "type": {
+          "class": "MapStatePointDataV2",
+          "ns": "ProjectSchoolNs.WorldNs.MapNs",
+          "asm": "Assembly-CSharp"
+        },
+        "data": {
+          "data": {
+            "items": [
+              {
+                "K": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "V": {
+                  "stateData": {
+                    "x": 0,
+                    "y": 2
+                  },
+                  "facilityNeededData": {
+                    "FacilityTypeID": -1
+                  },
+                  "furnitureNeededData": {
+                    "slot": 0,
+                    "furnitureType": {
+                      "FurnitureTypeID": -1
+                    }
+                  },
+                  "buildingNeededData": {
+                    "buildingId": -1
+                  }
+                }
+              }
+            ]
+          },
+          "offset": {
+            "x": 0,
+            "y": 0, 
+            "z": 0
+          },
+          "complicatedPos": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      }
+    ]
+  }
+}
