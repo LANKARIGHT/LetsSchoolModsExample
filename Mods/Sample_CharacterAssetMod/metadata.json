@@ -4,12 +4,20 @@
       {
         "steamLanguageType": 0,
         "Value": "角色案例模组"
+      },
+      {
+        "steamLanguageType": 2,
+        "Value": "Character Content Example Mod"
       }
     ],
     "descArr": [
       {
         "steamLanguageType": 0,
         "Value": "如果你不知道如何制作角色模组资产/角色组件模组资产，请订阅我，我会教你如何从零开始变初一个自定义个学园角色。 "
+      },
+      {
+        "steamLanguageType": 2,
+        "Value": "If you're unsure how to create mod assets for characters or character part mod assets, subscribe to me, and I'll teach you how to customize and create a Let's School character from scratch."
       }
     ]
   },
@@ -20,7 +28,7 @@
   "Tags": [],
   "Dependencies": [],
   "Visibility": 2,
-  "Icon": "C:/Users/lanka/Desktop/企业微信截图_17031291294436.png",
+  "Icon": "Icon.png",
   "ChannelIds": [
     {
       "ChannelId": 2,
