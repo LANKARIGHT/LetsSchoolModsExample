@@ -1,1 +1,38 @@
-{"Id":{"Id":3101453782},"Desc":{"nameArr":[{"steamLanguageType":0,"Value":"建材案例模组"},{"steamLanguageType":1,"Value":"建材案例模组"}],"descArr":[{"steamLanguageType":0,"Value":"如果你不知道怎么制作建材的模组资产，请订阅我，我会教你如何开始制作一个最基础的地面/墙面/家具资产。"},{"steamLanguageType":1,"Value":"如果你不知道怎么制作建材的模组资产，请订阅我，我会教你如何开始制作一个最基础的地面/墙面/家具资产。"}]},"Author":"LANKA","Version":"0.0.1","Website":"","Icon":"C:/Users/lanka/AppData/LocalLow/Pathea Games/LetsSchool/LocalMods/Sample_ConstructionAssetMod/icon.png","Tags":[],"Dependencies":[]}
+{
+  "Desc": {
+    "nameArr": [
+      {
+        "steamLanguageType": 0,
+        "Value": "建材案例模组"
+      },
+      {
+        "steamLanguageType": 2,
+        "Value": "Construction Content Example Mod"
+      }
+    ],
+    "descArr": [
+      {
+        "steamLanguageType": 0,
+        "Value": "如果你不知道怎么制作建材的模组资产，请订阅我，我会教你如何开始制作一个最基础的地面/墙面/家具资产。 "
+      },
+      {
+        "steamLanguageType": 2,
+        "Value": "If you are unsure how to create mod assets for Construction Content, subscribe to me, and I will teach you how to start crafting basic ground, wall, and furniture assets."
+      }
+    ]
+  },
+  "UID": 5467294110188041082,
+  "Author": "LANKA",
+  "Version": "0.0.1",
+  "Website": "",
+  "Tags": [],
+  "Dependencies": [],
+  "Visibility": 2,
+  "Icon": "C:/Users/lanka/AppData/LocalLow/Pathea Games/LetsSchool/LocalMods/Sample_ConstructionAssetMod/icon.png",
+  "ChannelIds": [
+    {
+      "ChannelId": 2,
+      "UID": "3101453782"
+    }
+  ]
+}
