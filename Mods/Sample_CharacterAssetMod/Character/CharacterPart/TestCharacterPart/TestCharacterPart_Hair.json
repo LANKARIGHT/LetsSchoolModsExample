@@ -1,0 +1,15 @@
+{
+  "metaData": {
+    "assetName": "TestCharacterPart_Hair",
+    "assetType": "characterPart",
+    "assetIcon": ""
+  },
+  "male": true,
+  "female": true,
+  "partMask": 2,
+  "moduleFileName": "TestCharacterPart",
+  "module": "TestCharacterPart_Hair",
+  "baseTexture": "TestCharacterPartTex_B",
+  "maskTexture": "TestCharacterPartTex_M",
+  "unlockOnStart": true
+}

@@ -1,0 +1,15 @@
+{
+  "metaData": {
+    "assetName": "TestCharacterPart_f_Lower",
+    "assetType": "characterPart",
+    "assetIcon": "TestCharacterPartTex_B"
+  },
+  "male": false,
+  "female": true,
+  "partMask": 8,
+  "moduleFileName": "TestCharacterPart",
+  "module":"TestCharacterPart_f_Lower",
+  "baseTexture": "TestCharacterPartTex_B",
+  "maskTexture": "TestCharacterPartTex_M",
+  "unlockOnStart": true
+}

@@ -1,0 +1,16 @@
+{
+
+  "metaData": {
+    "assetName": "TestCharacterPart_f_Upper",
+    "assetType": "characterPart",
+    "assetIcon": "TestCharacterPartTex_B"
+  },
+  "male": false,
+  "female": true,
+  "partMask": 4,
+  "moduleFileName": "TestCharacterPart",
+  "module": "TestCharacterPart_f_Upper",
+  "baseTexture": "TestCharacterPartTex_B",
+  "maskTexture": "TestCharacterPartTex_M",
+  "unlockOnStart": true
+}
