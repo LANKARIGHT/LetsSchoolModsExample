@@ -7,7 +7,10 @@
   "assetPath": "",
   "moduleFileName": "TestFurniture",
   "moduleName": "TestFurniture",
+  "baseTexture": "TestFurnitureTexture",
+  "smoothTexture": "",
   "Level": 0,
+  "UIPanelType": "common",
   "FurnitureNameI18n": {
     "Key": "TestFurnitureI18nKey",
     "Value": "TestFurniture"
@@ -20,6 +23,13 @@
     "FurnitureTypeID": 0
   },
   "enableSnap": true,
+  "unlockOnStart": true,
+  "AugmentBright": 0.0,
+  "augmenttTmperature": 0.0,
+  "isAutoTemperature": false,
+  "BuyPrice": 10.0,
+  "MaxHp": 100.0,
+  "TradeValue": 100.0,
   "BuildCondition": {
     "StateBoundData": {
       "rid": 1000
@@ -65,15 +75,7 @@
       "PadGroundID": 0
     }
   ],
-  "baseTexture": "",
-  "smoothTexture": "",
-  "unlockOnStart": true,
-  "AugmentBright": 0.0,
-  "augmenttTmperature": 0.0,
-  "isAutoTemperature": false,
-  "BuyPrice": 10.0,
-  "MaxHp": 100.0,
-  "TradeValue": 100.0,
+ 
   "references": {
     "version": 2,
     "RefIds": [
@@ -116,7 +118,7 @@
           },
           "offset": {
             "x": 0,
-            "y": 0, 
+            "y": 0,
             "z": 0
           },
           "complicatedPos": {
