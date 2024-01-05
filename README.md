@@ -1,5 +1,8 @@
-# Project Title and Brief Description
-
+# LetsSchoolModsExample
+[![](https://img.shields.io/github/downloads/AssetRipper/AssetRipper/total.svg)](https://github.com/LetsSchoolModsExample/AssetRipper/releases)
+[![](https://img.shields.io/github/downloads/AssetRipper/AssetRipper/latest/total.svg)](https://github.com/LetsSchoolModsExample/AssetRipper/releases/latest)
+[![](https://img.shields.io/github/v/release/AssetRipper/AssetRipper)](https://github.com/AssetRipper/LetsSchoolModsExample/releases/latest)
+[![](https://weblate.samboy.dev/widgets/assetripper/-/gui/svg-badge.svg)](http://weblate.samboy.dev/engage/assetripper/)
 This is a repository for the development of a mod for "Let's School," where you can create mods by referencing these cases.
 
 ## Installation Instructions
